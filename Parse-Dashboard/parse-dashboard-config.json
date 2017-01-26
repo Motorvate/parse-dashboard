@@ -1,10 +1,12 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "http://motorvateparseserver1.herokuapp.com/parse",
+    "appId": "motorvateparseserver1",
+    "masterKey": "C4gbEu3NUs5JcSyG",
+    "appName": "test 1"
   }],
-  "iconsFolder": "icons"
+  "users": [{
+  	"user":"username1",
+  	"pass":"password1"
+  }]
 }
